@@ -1,0 +1,15 @@
+body {
+	background-color: powder blue;
+}
+.center{
+	text-align: center;
+}
+h1 {
+	color: MidnightBlue;
+	Background-color: LightBlue;
+}
+p {
+	color: Black;
+	border: 1px solid red;
+	padding: 10 px;
+}
